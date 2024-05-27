@@ -33,10 +33,10 @@ const Home = () => {
           <TitleCards title={"Popular Movies"} type={"movie"} category={"popular"}/>
           <TitleCards title={"Upcoming"} type={"movie"} category={"upcoming"}/>
           <TitleCards title={"Top Rated Movies"} type={"movie"} category={"top_rated"}/>
-          <TitleCards title={"Airing Today"} type={"tv"} category={"airing_today"}/>
+          {/* <TitleCards title={"Airing Today"} type={"tv"} category={"airing_today"}/>
           <TitleCards title={"On The Air"} type={"tv"} category={"on_the_air"}/>
           <TitleCards title={"Popular TV Shows"} type={"tv"} category={"popular"}/>
-          <TitleCards title={"Top Rated TV Shows"} type={"tv"} category={"top_rated"}/>
+          <TitleCards title={"Top Rated TV Shows"} type={"tv"} category={"top_rated"}/> */}
 
         </div>
         
