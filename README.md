@@ -17,11 +17,11 @@ A Netflix Clone website built using ReactJS and Firebase for user authentication
 - CSS
 
 ## Screenshots
-
+### Homepage
 ![Home Page](./screenshots/home-page.png)
-
+### Login Page
 ![Login Page](./screenshots/login-page.png)
-
+### Video Player
 ![Video Player](./screenshots/player.png)
 
 ## Getting Started
